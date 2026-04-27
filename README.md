@@ -1,4 +1,6 @@
 # EMBEDDING-IS-ALMOST-ALL-YOU-NEED
+- 截至4.27日目前仅在本地实现了一个HyenaDNA 序列嵌入提取功能，即Hyenadna-democodingvsintergenomicseqs_updated.ipynb。
+- 本库文件旨在基于该论文提供的代码上实现在本地上部署，如有侵犯原作者的利益，请联系3920696373@qq.com
 
 项目功能概述
 本文件主要实现了基于 demo_coding_vs_intergenomic_seqs 基因组数据集的分类任务，探索了“大语言模型嵌入 + 传统生物学特征”的混合检索与分类方法。核心功能模块包括：
