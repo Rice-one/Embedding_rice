@@ -1,7 +1,7 @@
 # EMBEDDING-IS-ALMOST-ALL-YOU-NEED
 
 项目功能概述
-本文件主要实现了基于 demo_coding_vs_intergenomic_seqs 基因组数据集的分类任务，探索了**“大语言模型嵌入 + 传统生物学特征”**的混合检索与分类方法。核心功能模块包括：
+本文件主要实现了基于 demo_coding_vs_intergenomic_seqs 基因组数据集的分类任务，探索了“大语言模型嵌入 + 传统生物学特征”的混合检索与分类方法。核心功能模块包括：
 
 数据集获取与预处理： 使用 genomic-benchmarks 库自动下载并加载编码区与基因组间区序列数据集，将数据划分为训练集（75,000 条）和测试集（25,000 条），并转换为 Pandas DataFrame 以便于后续的数据清洗与操作。
 
